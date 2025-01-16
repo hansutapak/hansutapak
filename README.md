@@ -4,6 +4,8 @@
 
 **`Student`** **`Learner`**
 
+https://readme-typing-svg.demolab.com/demo/?font=fira+code&lines=Code;Create;Conquer
+
 <br> 
 <br> 
 <br> 
