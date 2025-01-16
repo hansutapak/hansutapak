@@ -2,7 +2,7 @@
 
 <h1>Hi There ✨</h1>
 
-**`Student Learner`**
+**`Student & Learner`**
 
 <br> 
 <br> 
