@@ -1,6 +1,6 @@
 <!--My Bio-->
 
-### Hello there
+<h2>### Hello there</h2>
 
 🐸 Welcome to my profile! I'm [Hansu], a passionate developer and problem-solver. 
    My journey in tech is fueled by curiosity and a desire to make an impact. 
