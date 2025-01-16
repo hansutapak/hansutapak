@@ -8,9 +8,7 @@
 🫰 Feel free to explore my work, and let's connect if you'd like to collaborate or share knowledge! <br> 
 
 
-<!--Gitub stats-->
-
-<h2 style="display: inline;">📈</h2> GitHub Stats:
+<!--Gitub stats-->📈
 
 [![Hansus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hansutapak&show_icons=true&theme=dark&title_color=FF6455)](https://github.com/hansutapak/github-readme-stats#gh-dark-mode-only)
 
@@ -18,11 +16,9 @@
 
 
 
-<!--Skills-->
+<!--Skills-->💻
 
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 
 <!--Gitub stats 2-->
