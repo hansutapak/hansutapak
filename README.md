@@ -4,7 +4,7 @@
 
 **`Student`** **`Learner`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&width=435&lines=Code;Create;Conquer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&color=78FF95&width=435&lines=Code;Create;Conquer)](https://git.io/typing-svg)
 
 <br> 
 <br> 
