@@ -8,7 +8,7 @@
 🫰 Feel free to explore my work, and let's connect if you'd like to collaborate or share knowledge! <br> 
 
 
-<hr></hr>
+___
 
 <!--Gitub stats-->
 
