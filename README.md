@@ -9,5 +9,5 @@
 
 
 
-![Hansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Hansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansu)](https://github.com/anuraghazra/github-readme-stats)
   
