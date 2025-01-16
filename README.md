@@ -1,6 +1,6 @@
 <!--My Bio-->
 
-### <h2>Hello There👋🏻</h2>
+<h2>Hello There👋🏻</h2>
 <hr>
 
 🐸 Welcome to my profile! I'm Hansu, a student on a journey of learning and growth in the field of technology. <br> 
