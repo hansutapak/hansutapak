@@ -11,8 +11,6 @@
 👨‍💻 As I continue to learn, I am eager to work on projects that solve real-world problems. <br> 
 🫰 Feel free to explore my work, and let's connect if you'd like to collaborate or share knowledge! <br> 
 
-<br> 
-
 <!--Gitub stats-->
 <h2>Stats 📊</h2>
 
