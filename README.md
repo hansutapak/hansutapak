@@ -2,21 +2,21 @@
 
 <h1>Hello There ✨</h1>
 
-<span> 
-<span> 
+<br> 
+<br> 
 
 🐸 Welcome to my profile! I'm Hansu, a student on a journey of learning and growth in the field of technology. <br> 
 🔎 My journey in tech is fueled by curiosity and a desire to make an impact. <br> 
 👨‍💻 As I continue to learn, I am eager to work on projects that solve real-world problems. <br> 
 🫰 Feel free to explore my work, and let's connect if you'd like to collaborate or share knowledge! <br> 
 
-<span> 
-<span> 
-<span> 
-<span> 
+<br> 
+<br> 
+<br> 
+<br> 
 
 <!--Gitub stats-->
-<h2>Stats 📈</h2>
+<h2>Stats 📊</h2>
 
 [![Hansus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hansutapak&show_icons=true&theme=dark&title_color=FF6455)](https://github.com/hansutapak/github-readme-stats#gh-dark-mode-only)
 
@@ -34,7 +34,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hansutapak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2>Trophies🏆</h2>
+<h2>Contributors 📈</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=hansutapak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
