@@ -12,5 +12,4 @@
 
 [![Hansus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hansutapak&show_icons=true&theme=dark&title_color=FF3B30)](https://github.com/hansutapak/github-readme-stats)
 
-[![Hansu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hansutapak&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/hansutapak/github-readme-stats#gh-light-mode-only)
   
