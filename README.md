@@ -8,6 +8,8 @@
 🫰 Feel free to explore my work, and let's connect if you'd like to collaborate or share knowledge! <br> 
 
 
+<hr></hr>
+
 <!--Gitub stats-->
 
 [![Hansus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hansutapak&show_icons=true&theme=dark&title_color=FF6455)](https://github.com/hansutapak/github-readme-stats#gh-dark-mode-only)
