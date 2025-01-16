@@ -6,4 +6,8 @@
 🔎 My journey in tech is fueled by curiosity and a desire to make an impact. <br> 
 👨‍💻 As I continue to learn, I am eager to work on projects that solve real-world problems. <br> 
 🫰 Feel free to explore my work, and let's connect if you'd like to collaborate or share knowledge! <br> 
+
+
+
+![Hansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   
