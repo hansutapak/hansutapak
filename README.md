@@ -15,13 +15,6 @@
 👨‍💻 As I continue to learn, I am eager to work on projects that solve real-world problems. <br> 
 🫰 Feel free to explore my work, and let's connect if you'd like to collaborate or share knowledge! <br> 
 
-<!--Gitub stats-->
-<h2>Stats 📊</h2>
-
-[![Hansus's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hansutapak&show_icons=true&theme=dark&title_color=FF6455)](https://github.com/hansutapak/github-readme-stats#gh-dark-mode-only)
-
-[![Hansus's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hansutapak&show_icons=true&theme=default&title_color=FF6455)](https://github.com/hansutapak/github-readme-stats#gh-light-mode-only)
-
 
 <h2>Stacks ⌨️</h2>
 <!--Skills-->
